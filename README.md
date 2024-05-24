@@ -146,4 +146,4 @@ This classification model is a valuable resource for various stakeholders in the
 
 ---
 
-This README provides an overview of the project, highlighting key aspects such as business understanding, data preparation, modeling, and reflections on the project's outcomes and future directions. For more details, refer to the project documentation and source code.
+This README provides an overview of the project, highlighting key aspects such as business understanding, data preparation, modeling, and reflections on the project's outcomes and future directions. The source code includes detailed comments to explain the functionality of this project.
